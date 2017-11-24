@@ -1,0 +1,30 @@
+{
+    "name": "AlternativeSparklines",
+    "description": "a minimalistic alternative to the default sparkline style",
+    "version": "0.1.0",
+    "theme": true,
+    "require": {
+       "piwik": ">=3.2.1,<4.0.0-b1"
+    },
+    "stylesheet": "stylesheets/theme.less",
+    "homepage": "",
+    "license": "GPL v3+",
+    "keywords": ["theme", "sparkline", "modern"],
+    "support": {
+	    "email": "lukas@piwik.org",
+	    "issues": "https://github.com/Findus23/AlternativeSparklines/issues",
+	    "forum": "https://forum.piwik.org/",
+	    "irc": "",
+	    "source": "https://github.com/Findus23/AlternativeSparklines",
+	    "docs": "",
+	    "wiki": "",
+	    "rss": ""
+    },
+    "authors": [
+        {
+            "name": "Lukas Winkler",
+            "email": "lukas@piwik.org",
+            "homepage": "https://github.com/Findus23"
+        }
+    ]
+}
