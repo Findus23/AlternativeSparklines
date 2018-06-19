@@ -1,3 +1,3 @@
 ## Changelog
 
-Here goes the changelog text.
+- 0.1.1: first release

@@ -1,5 +1,5 @@
-# Piwik AlternativeSparklines Theme
+# Alternative Sparklines Theme
 
-## Description
+*a minimalistic alternative to the default sparkline style*
 
-Add your theme description here.
+This theme requires Matomo 3.6.0 or later.
