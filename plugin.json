@@ -1,26 +1,30 @@
 {
-    "name": "AlternativeSparklines",
-    "description": "a minimalistic alternative to the default sparkline style",
+  "name": "AlternativeSparklines",
+  "description": "a minimalistic alternative to the default sparkline style",
   "version": "0.1.2",
-    "theme": true,
-    "require": {
-      "piwik": ">=3.6.0-b1,<4.0.0-b1"
-    },
-    "stylesheet": "stylesheets/theme.less",
-    "homepage": "https://lw1.at",
-    "license": "GPL v3+",
-    "keywords": ["theme", "sparkline", "modern"],
-    "support": {
+  "theme": true,
+  "require": {
+    "matomo": ">=4.0.0-b1,<5.0.0-b1"
+  },
+  "stylesheet": "stylesheets/theme.less",
+  "homepage": "https://lw1.at",
+  "license": "GPL v3+",
+  "keywords": [
+    "theme",
+    "sparkline",
+    "modern"
+  ],
+  "support": {
+    "email": "lukas@matomo.org",
+    "issues": "https://github.com/Findus23/AlternativeSparklines/issues",
+    "forum": "https://forum.matomo.org",
+    "source": "https://github.com/Findus23/AlternativeSparklines"
+  },
+  "authors": [
+    {
+      "name": "Lukas Winkler",
       "email": "lukas@matomo.org",
-      "issues": "https://github.com/Findus23/AlternativeSparklines/issues",
-      "forum": "https://forum.matomo.org",
-      "source": "https://github.com/Findus23/AlternativeSparklines"
-    },
-    "authors": [
-      {
-        "name": "Lukas Winkler",
-        "email": "lukas@matomo.org",
-        "homepage": "https://lw1.at"
-      }
-    ]
+      "homepage": "https://lw1.at"
+    }
+  ]
 }
