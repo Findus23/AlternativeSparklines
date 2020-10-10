@@ -1,7 +1,7 @@
 {
   "name": "AlternativeSparklines",
   "description": "a minimalistic alternative to the default sparkline style",
-  "version": "0.1.2",
+  "version": "0.2.0",
   "theme": true,
   "require": {
     "matomo": ">=4.0.0-b1,<5.0.0-b1"
